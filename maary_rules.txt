@@ -32,3 +32,6 @@ bbs.nga.cn##.userblockcontents
 ! 2022-10-17 https://www.ithome.com
 www.ithome.com##.post_comment
 
+! 2022-11-18 https://m.ithome.com
+m.ithome.com##.all-comment-box
+
