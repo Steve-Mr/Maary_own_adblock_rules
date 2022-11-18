@@ -1,0 +1,34 @@
+! 2022-03-04 https://www.ithome.com
+||cmt.ithome.com/comment/$subdocument
+
+! 2022-03-04 https://sspai.com
+sspai.com###article-comment-box
+
+! 2022-03-12 https://t.bilibili.com
+||s1.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/background.bc725153.png$image
+
+! 2022-03-14 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.login-modal-div > .modal-content
+
+! 2022-04-08 https://t.bilibili.com
+t.bilibili.com##.topic-panel
+
+! 2022-04-26 https://www.bilibili.com
+www.bilibili.com##.report-scroll-module.report-wrap-module.video-ad-creative-card
+
+! 2022-04-30 https://weibo.com
+||img.t.sinajs.cn/t6/skin/skin048/images/body_bg.jpg?id=201503261330$image
+
+! 2022-05-06 https://music.youtube.com
+music.youtube.com##ytmusic-pivot-bar-item-renderer.ytmusic-pivot-bar-renderer.style-scope:nth-of-type(4)
+
+! 2022-08-15 https://bbs.nga.cn
+bbs.nga.cn##.userblockcontents
+
+! 2022-09-01 https://www.ithome.com
+||img.ithome.com/newsuploadfiles/focus/1ed3743d-ece4-4fa5-8e72-345580581c40.jpg$image
+||img.ithome.com/newsuploadfiles/focus/1ed3743d-ece4-4fa5-8e72-345580581c40.jpg$image
+
+! 2022-10-17 https://www.ithome.com
+www.ithome.com##.post_comment
+
